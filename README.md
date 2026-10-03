@@ -38,4 +38,4 @@ Desarrollador enfocado en aplicaciones móviles Android y desarrollo backend. Ap
 ---
 
 ### 💬 Contacto
-- 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com)
+- 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/jorge-daniel-barrios-a87084181?utm_source=share_via&utm_content=profile&utm_medium=member_android)
